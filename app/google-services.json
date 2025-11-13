@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940045550813",
+    "project_id": "flexlog-22690",
+    "storage_bucket": "flexlog-22690.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940045550813:android:e82070949f6a78dcac4734",
+        "android_client_info": {
+          "package_name": "com.frankgary.flexlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGND6lSVFTsiZo-wlsLLpiq6BNIgiiRoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
